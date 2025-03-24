@@ -1,0 +1,14 @@
+[package]
+name = "hashassin-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sha2 = "0.10"
+sha3 = "0.10"
+md-5 = "0.10"
+scrypt = "0.11"
+rand = "0.8"
+hex = "0.4"
+rayon = "1.10"
+
